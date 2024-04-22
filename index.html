@@ -35,7 +35,23 @@
     
     <!-- Scripts JavaScript -->
     <script>
-        // Seus exercícios JavaScript podem ser colocados aqui
+        // Exercício 1
+        document.getElementById("demo").textContent = "Olá, Mundo!";
+
+        // Exercício 2
+        let firstBox = document.querySelector(".box");
+        firstBox.style.backgroundColor = "#FF0000";
+
+        // Exercício 3
+        let image = document.querySelector("img");
+        image.src = "nova-imagem.jpg";
+
+        // Exercício 4
+        let newListElement = document.createElement("li");
+        newListElement.textContent = "Novo Item";
+
+        let list = document.getElementById("lista");
+        list.appendChild(newListElement);
     </script>
 </body>
 </html>
