@@ -13,7 +13,7 @@ Você pode criar uma nova branch para entregar a atividade.
 
 2. **Selecionar Elemento por Classe:**
    
-   Altere a cor de todos os elementos com a classe "box" para vermelho (#FF0000).
+   Altere a cor de fundo do primeiro elemento com a classe "box" para vermelho (#FF0000).
 
 3. **Selecionar Elemento por Tag:**
    
