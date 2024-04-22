@@ -19,13 +19,7 @@ Você pode criar uma nova branch para entregar a atividade.
    
    Altere o atributo "src" da imagem para "nova-imagem.jpg".
 
-4. **Adicionar e Remover Classes:**
-   
-   Adicione a classe "destaque" ao elemento com o ID "elemento".
-   
-   Remova a classe "ativo" de todos os elementos com a classe "item".
-
-5. **Manipulação de Elementos:**
+4. **Manipulação de Elementos:**
    
    Crie um novo elemento **li** com o texto "Novo Item" e adicione-o à lista com o ID "lista".
 
