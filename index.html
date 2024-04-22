@@ -35,7 +35,25 @@
     
     <!-- Scripts JavaScript -->
     <script>
-        // Seus exercícios JavaScript podem ser colocados aqui
-    </script>
+                // Exercicio 1
+        const demo = document.getElementById("demo")
+        demo.innerHTML = "Olá, mundo!"
+        console.log(demo)
+
+        // Exercicio 2
+        const box = document.getElementsByClassName("box")[0]
+        box.style.color = "red"
+
+        // Exercicio 3
+        const img = document.getElementsByTagName("img")[0]
+        img.src = "nova-imagem.png"
+
+        // Exercicio 4
+        const lista = document.getElementById("lista")
+        const novaLista = document.createElement("li")
+        novaLista.innerHTML = "Novo Item"
+        lista.appendChild(novaLista)
+
+    </script>    
 </body>
 </html>
